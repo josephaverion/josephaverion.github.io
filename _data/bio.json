@@ -24,7 +24,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Eclipse", "Vim", "Git/GitHub", "Windows 10", "MacOS",  ]
+      "keywords": [ "Eclipse", "Vim", "Git/GitHub", "Windows 10", "MacOS", ]
     }
   ],
   "education": [
@@ -39,54 +39,32 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Nagatani Academic Center - University of Hawaii at Manoa",
+      "position": "Computer Support Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-08-29",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Monitor computer lab during day and evening study hall hours",
+        "Updated, maintained, and fixed problems with computers and other technology",
+        "Ensured that students followed computer lab policies"
       ]
     }
   ],
-  "volunteer": [
+  "Research Work": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "University of Hawaii at Manoa",
+      "website": "https://cms.ctahr.hawaii.edu/reeu",
+      "position": "Data Driven Agriculture Research Experience and Extension for Undergraduates",
+      "startDate": "2023-06-05",
+      "endDate": "2023-08-04",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Collected data on various maize root and shoot traits",
+        "Maize was grown in shade, drought, and normal conditions under a greenhouse",
+        "Worked with 4 other computer science and 5 other biology/agriculture undergraduates",
+        "Used data science techniques to analyze the data",
+        "Created graphs with R to visualize our findings",
+        "Presented findings at the Summer 2023 SURE Symposium"
       ]
     }
   ],
