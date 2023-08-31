@@ -19,8 +19,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "keywords": [ "Java", "C++", "C", "SQL", "JavaScript" ]
+    },
+      "name": "Libraries and Frameworks",
+      "keywords": [ "Swing" ]
+    {
     },
     {
       "name": "Toolsets/OS",
@@ -51,7 +55,7 @@
       ]
     },
     {
-      "organization": "College of Tropical Agriculture & Human Resources - University of Hawaii at Manoa",
+      "company": "College of Tropical Agriculture and Human Resources - University of Hawaii at Manoa",
       "website": "https://cms.ctahr.hawaii.edu/reeu",
       "position": "Undergraduate Researcher",
       "startDate": "2023-06-05",
