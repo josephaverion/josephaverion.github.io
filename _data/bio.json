@@ -22,9 +22,9 @@
       "name": "Languages",
       "keywords": [ "Java", "C++", "C", "SQL", "JavaScript" ]
     },
+    {
       "name": "Libraries and Frameworks",
       "keywords": [ "Swing" ]
-    {
     },
     {
       "name": "Toolsets/OS",
@@ -78,7 +78,7 @@
       "title": "Deans List",
       "date": "2022 - Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more"
+      "summary": "Earned a semester GPA of 3.5 or higher based on 12 credits or more"
     },
   ],
   "references": [
