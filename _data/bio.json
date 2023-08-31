@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "Vim", Eclipse", "MacOS", "Windows 10" ]
+      "keywords": [ "Git/GitHub", "Vim", "Eclipse", "MacOS", "Windows 10" ]
     }
   ],
   "education": [
