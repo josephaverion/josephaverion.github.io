@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Reflection
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/javascript/JavaScript-Logo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascript/javascript-logo.png">
 
 ## How Easy is JavaScript?
 
@@ -20,7 +20,7 @@ Java and C++ are statically type languages meaning you need to declare a variabl
 
 Additionally, you can use functions as parameters or return functions. Using functions as variables introduced asynchronous programming. With functions being able to be passed as parameters, it’s possible to have functions be called at particular times instead of sequentially. I found this pretty cool how code can be run from different points, and it made me realize how features on a website such as buttons worked.
 
-I also thought that scoping rules for all languages were the same. For some reason, I came to that conclusion after learning C++ when I noticed the language has the same scoping rules as Java. That was debunked when I learned JavaScript. Variables are declared with var, let, or const, which each has its own function-level scope and closures.
+I also thought that scoping rules for all languages were the same. For some reason, I came to that conclusion after learning C++ when I noticed the language used the same scoping rules as Java. That was debunked when I learned JavaScript. Variables are declared with var, let, or const, which each has its own function-level scope and closures.
 
 Overall I feel that JavaScript has creative aspects and causes confusion. JavaScript lets you be creative with its flexibility of dynamic return types and variable declaration, and changing scoping rules with var and let, but it can be hard to read, leading to runtime errors. Asynchronous programming using the concept of using functions as parameters can be confusing to read too, especially if you are used to the rule of not allowing functions to be parameters. However, just like how I learned Java and C++, JavaScript will come as second nature with practice.
 
