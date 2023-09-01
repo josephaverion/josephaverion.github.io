@@ -14,7 +14,7 @@ labels:
 
 ## How Easy is JavaScript?
 
-JavaScript is a common first programming language because of how easy it is. However, I learned Java, C, and C++ before JavaScript. I’ve always heard of JavaScript but never learned it until I took ICS 314 at UH Manoa. Our professor told us that the language was going to be a piece of cake. He was right, going through the material wasn’t hard for me, but I was a bit shocked at JavaScript's rules because they were utterly different to what I was used to.
+JavaScript is a common first programming language because of how easy it is. However, I learned Java, C, and C++ before JavaScript. I’ve always heard of JavaScript but never learned it until I took ICS 314 at UH Manoa. Our professor told us that the language was going to be a piece of cake. He was right, going through the material wasn’t hard for me, but I was a bit shocked at JavaScript's rules because they were utterly different from what I was used to.
 
 Java and C++ are statically type languages meaning you need to declare a variable type or return type explicitly. On the other hand, JavaScript is a dynamically typed language, so you don't have to do that at all. It automatically declares the type for you, allowing for functions to take multiple data types of input and return multiple data types of input. It sounds convenient because there is less code to write for declaring data types. In my opinion, this feature makes it less convenient for me. Trying to understand the functions took more time since I was forced to figure out the input and output based on what was written instead of knowing it immediately. Therefore, the functions can cause unexpected behavior if not analyzed properly.
 
@@ -22,7 +22,7 @@ Additionally, you can use functions as parameters or return functions. Using fun
 
 I also thought that scoping rules for all languages were the same. For some reason, I came to that conclusion after learning C++ when I noticed the language used the same scoping rules as Java. That was debunked when I learned JavaScript. Variables are declared with var, let, or const, which each has its own function-level scope and closures.
 
-Overall I feel that JavaScript has creative aspects and causes confusion. JavaScript lets you be creative with its flexibility of dynamic return types and variable declaration, and changing scoping rules with var and let, but it can be hard to read, leading to runtime errors. Asynchronous programming using the concept of using functions as parameters can be confusing to read too, especially if you are used to the rule of not allowing functions to be parameters. However, just like how I learned Java and C++, JavaScript will come as second nature with practice.
+Overall I feel that JavaScript lets you be creative with its flexibility of dynamic return types and variable declaration, and changing scoping rules with var and let. However, JavaScript's flexibility can make the code hard to understand, so errors may arise at runtime in areas where I thought the automatic typing would be fine. Asynchronous programming using the concept of using functions as parameters is somewhat confusing for me to read too, especially since I'm still used to the rule of not allowing functions to be parameters. This is only the beginning though, so with practice and time, JavaScript will be like second nature.
 
 ## Athletic Software Engineering
 
