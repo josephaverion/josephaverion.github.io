@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Java", "C++", "C", "SQL", "JavaScript" ]
+      "keywords": [ "Java", "C++", "C", "SQL", "R", "JavaScript" ]
     },
     {
       "name": "Libraries and Frameworks",
