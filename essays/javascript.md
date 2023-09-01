@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Reflection
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/javascript/javascript-logo.png">
+<img width="300px" length="540px" class="rounded float-start pe-4" src="../img/javascript/javascript-logo.png">
 
 ## How Easy is JavaScript?
 
