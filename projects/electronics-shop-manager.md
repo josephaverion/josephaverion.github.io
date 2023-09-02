@@ -23,7 +23,7 @@ Note: As of right now, this project is not completed yet. I only implemented the
 
 I utilized 4 packages for this program. A database package containing a single class for methods that interact with the database, a screen package where each class represents a section with its respective GUI components and graphics, a main package that initializes the main frame and connects to the database, and a customJComponent package that has the classes where I modified existing Swing Components.
 
-Main Class
+Main
 
 These are the methods that connect to the database and initialize the main frame.
 
@@ -47,17 +47,17 @@ Here is what one of my tables looks like. I used a program called HeidiSQL to in
 
 ![heidisql.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/heidisql.png)
 
-Screen Package
+Each Panel/Screen
 
 This is some code for the category panel. GUI Components, labels, and graphics are initialized here.
 
 ![category-panel-code.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/category-panel-code.png)
 
-customJComponent package
+Custom Components
 
 This is a method I implemented to make a custom JButton that is able to have a different color.
 
-![set-color.png(https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/set-color.png)
+![set-color.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/set-color.png)
 
 ## What I got out of this project and moving forward
 
