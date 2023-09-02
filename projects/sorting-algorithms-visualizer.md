@@ -21,4 +21,6 @@ Here is a quick showcase of one of the sorting algorithms, quick sort.
 
 [Features and other sorts are shown here](https://www.youtube.com/watch?v=bZ7tsf0GHfA&ab_channel=JosephCarmeloAverion)
 
+After doing this project, all these sorting algorithms stuck with me even more, especially the O(nlogn) sorts because I never tried coding them before. Also, if I ever need a refresher I can just open up this app. In the future, I hope to implement other sorting algorithms in this program.
+
 [Source Code](https://github.com/josephaverion/SortingVisualizer/tree/master/SortingVisualizer/src)
