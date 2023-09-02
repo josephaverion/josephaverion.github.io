@@ -8,7 +8,7 @@ published: true
 labels:
   - Research
   - Data Science
-summary: "In a summer internship with CTAHR UHM I conducted research on Maize"
+summary: "Conducted research on Maize in a summer internship with CTAHR UHM"
 ---
 
 ## Project Info
