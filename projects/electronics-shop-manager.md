@@ -23,13 +23,13 @@ Note: As of right now, this project is not completed yet. I only implemented the
 
 I utilized 4 packages for this program. A database package containing a single class for methods that interact with the database, a screen package where each class represents a section with its respective GUI components and graphics, a main package that initializes the main frame and connects to the database, and a customJComponent package that has the classes where I modified existing Swing components.
 
-# Main
+##### Main
 
 These are the methods that connect to the database and initialize the main frame.
 
 <img src= "../img/electronic-shop-system/start.png">
 
-# Database
+##### Database
 
 This is a method that adds an entry to the database. The method takes parameters of the table name, what’s being added, and the column names for the query.
 
@@ -43,13 +43,13 @@ Here is what one of my tables looks like. I used a program called HeidiSQL to in
 
 <img src= "../img/electronic-shop-system/heidisql.png">
 
-# Each Panel/Screen
+##### Each Panel/Screen
 
 This is some code for the category panel. GUI Components, labels, and graphics are initialized here.
 
 <img src= "../img/electronic-shop-system/category-panel-code.png">
 
-# Custom Components
+##### Custom Components
 
 This is a method I implemented to make a custom JButton that is able to have a different color.
 
