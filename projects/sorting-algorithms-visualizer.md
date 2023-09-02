@@ -17,7 +17,7 @@ By clicking the start button the user shuffles an array length of a value the us
 
 Here is a quick showcase of one of the sorting algorithms, quick sort.
 
-<img src= "..img/sort-visualizer/quick-sort-showcase.gif">
+![Quick Sort](/img/sort-visualizer/quick-sort-showcase.gif)
 
 [Features and other sorts are shown here](https://www.youtube.com/watch?v=bZ7tsf0GHfA&ab_channel=JosephCarmeloAverion)
 
