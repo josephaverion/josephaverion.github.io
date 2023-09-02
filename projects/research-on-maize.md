@@ -23,7 +23,7 @@ During the data collection phase, the 10 of us were split into three groups to m
 
 I gained a lot of meaningful skills out of this internship. One of the major things I learned improved was my communication and teamwork. This was a group-oriented project and we each had to put in effort together to finish this project. I also learned a lot of biology terms for Maize and plants in general. From the workshops, I was able to learn data science methods and a new programming language meant for displaying graphs.
 
-[Click here for a link to a PDF of my poster](/img/undergraduate-research/Maize-REEU-Poster.jpg)
+[Click here for a link to a PDF of my poster](https://josephaverion.github.io/projects/projectExtensions/Maize-REEU-Poster.pdf)
 
 [Click here for a link to the code I used to create the graphs in my poster](https://github.com/josephaverion/MaizeResearchPosterCode/blob/main/REEU_Amanda_Joseph_R_Code.Rmd)
 
