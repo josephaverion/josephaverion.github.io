@@ -21,15 +21,15 @@ Note: As of right now, this project is not completed yet. I only implemented the
 
 ## Designing the Manager
 
-I utilized 4 packages for this program. A database package containing a single class for methods that interact with the database, a screen package where each class represents a section with its respective GUI components and graphics, a main package that initializes the main frame and connects to the database, and a customJComponent package that has the classes where I modified existing Swing Components.
+I utilized 4 packages for this program. A database package containing a single class for methods that interact with the database, a screen package where each class represents a section with its respective GUI components and graphics, a main package that initializes the main frame and connects to the database, and a customJComponent package that has the classes where I modified existing Swing components.
 
-Main
+# Main
 
 These are the methods that connect to the database and initialize the main frame.
 
 <img src= "../img/electronic-shop-system/start.png">
 
-Database
+# Database
 
 This is a method that adds an entry to the database. The method takes parameters of the table name, what’s being added, and the column names for the query.
 
@@ -43,13 +43,13 @@ Here is what one of my tables looks like. I used a program called HeidiSQL to in
 
 <img src= "../img/electronic-shop-system/heidisql.png">
 
-Each Panel/Screen
+# Each Panel/Screen
 
 This is some code for the category panel. GUI Components, labels, and graphics are initialized here.
 
 <img src= "../img/electronic-shop-system/category-panel-code.png">
 
-Custom Components
+# Custom Components
 
 This is a method I implemented to make a custom JButton that is able to have a different color.
 
@@ -59,6 +59,6 @@ This is a method I implemented to make a custom JButton that is able to have a d
 
 Coding this shop management system allowed me to practice my Java skills in this project, and I was able to become more familiar with the Swing framework. I also gained more experience in database design and SQL queries.
 
-My goal in improving this project is to make it feel more modern. Right now all the Components and the font feel too sharp compared to today’s look in GUIs where it’s more soft and round. Additionally, I could learn how to create animations to make it look more pleasing to use.
+I want to improve this project by making it feel more modern. Right now all the components and the font feel too sharp compared to today’s look in GUIs where the components are more soft and round. Additionally, I could learn how to create animations to make it look more pleasing to use.
 
 [Source Code](https://github.com/josephaverion/ElectronicsShopManager/tree/master/Electronics%20Shop%20Management%20System/src)
