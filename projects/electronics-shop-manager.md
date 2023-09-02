@@ -13,9 +13,9 @@ summary: "Developed a GUI desktop application to manage a shop’s inventory and
 ---
 I developed an electronics system to manage a hypothetical shop using Java, the Swing framework for the GUI, and a MySQL server for the backend. The system allows the shop owner or staff to add, edit, or delete product categories and brands, the product itself, and orders. Furthermore, the system tracks the amount of revenue and orders.
 
-![add-button.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/add-button.png)
-![edit-button.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/edit-button.png)
-![table.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/table.png)
+<img src= "../img/electronic-shop-system/add-button.png">
+<img src= "../img/electronic-shop-system/edit-button.png">
+<img src= "../img/electronic-shop-system/table.png">
 
 Note: As of right now, this project is not completed yet. I only implemented the database tables for the brand and category panels.
 
@@ -27,37 +27,33 @@ Main
 
 These are the methods that connect to the database and initialize the main frame.
 
-![start.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/start.png)
+<img src= "../img/electronic-shop-system/start.png">
 
 Database
 
-This is a method that connects the application to the MySQL server.
-
-![start.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/start.png)
-
 This is a method that adds an entry to the database. The method takes parameters of the table name, what’s being added, and the column names for the query.
 
-![add-method.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/add-method.png)
+<img src= "../img/electronic-shop-system/add-method.png">
 
 This is a method that refreshes the table showing the entries from the database.
 
-![refresh.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/refresh.png)
+<img src= "../img/electronic-shop-system/refresh.png">
 
 Here is what one of my tables looks like. I used a program called HeidiSQL to internally manage the database.
 
-![heidisql.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/heidisql.png)
+<img src= "../img/electronic-shop-system/heidisql.png">
 
 Each Panel/Screen
 
 This is some code for the category panel. GUI Components, labels, and graphics are initialized here.
 
-![category-panel-code.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/category-panel-code.png)
+<img src= "../img/electronic-shop-system/category-panel-code.png">
 
 Custom Components
 
 This is a method I implemented to make a custom JButton that is able to have a different color.
 
-![set-color.png](https://github.com/josephaverion/josephaverion.github.io/blob/main/img/electronic-shop-system/set-color.png)
+<img src= "../img/electronic-shop-system/set-color.png">
 
 ## What I got out of this project and moving forward
 
