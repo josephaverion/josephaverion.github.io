@@ -57,7 +57,7 @@ This is a method I implemented to make a custom JButton that is able to have a d
 
 ## What I got out of this project and moving forward
 
-Coding this shop management system allowed me to practice my Java skills in this project, and I was able to become more familiar with the Swing framework. I also gained more experience in database design and SQL queries.
+Coding this shop management system allowed me to practice my Java skills, and I was able to become more familiar with the Swing framework. I also gained more experience in database design and SQL queries.
 
 I want to improve this project by making it feel more modern. Right now all the components and the font feel too sharp compared to today’s look in GUIs where the components are more soft and round. Additionally, I could learn how to create animations to make it look more pleasing to use.
 
