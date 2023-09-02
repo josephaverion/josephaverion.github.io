@@ -1,0 +1,15 @@
+---
+layout: project
+type: project
+image: img/electronic-shop-system/mangement-system.png
+title: "Electronics Shop Manager"
+date: 2022
+published: true
+labels:
+  - Java
+  - Swing
+  - SQL
+summary: "Developed a GUI desktop application to manage a shop’s inventory and customer orders"
+---
+
+[Source Code](https://github.com/josephaverion/ElectronicsShopManager/tree/master/Electronics%20Shop%20Management%20System/src)
