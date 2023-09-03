@@ -11,10 +11,10 @@ labels:
 summary: "Conducted research on Maize in a summer internship with CTAHR UHM"
 ---
 <p float="left">
-  <img src="water-measuring.jpg" height="300" />
-  <img src="measure-leaf-4.jpg" height="300" />
-  <img src="clean-root.jpg" height="300" />
-   <img src="density-plot.png height="300" />
+  <img src="..img/undergraduate-research/water-measuring.jpg" height="300" />
+  <img src="..img/undergraduate-research/measure-leaf-4.jpg" height="300" />
+  <img src="..img/undergraduate-research/clean-root.jpg" height="300" />
+   <img src="..img/undergraduate-research/density-plot.png height="300" />
 </p>
 
 ## Project Info
