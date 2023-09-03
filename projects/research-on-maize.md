@@ -14,7 +14,7 @@ summary: "Conducted research on Maize in a summer internship with CTAHR UHM"
   <img src="../img/undergraduate-research/water-measuring.jpg" height="300" />
   <img src="../img/undergraduate-research/measure-leaf-4.jpg" height="300" />
   <img src="../img/undergraduate-research/clean-root.jpg" height="300" />
-   <img src="../img/undergraduate-research/density-plot.png" height="300" />
+   <img src="../img/undergraduate-research/density-plot.png" height="300" width = "200" />
 </p>
 
 ## Project Info
