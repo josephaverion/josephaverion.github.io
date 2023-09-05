@@ -48,31 +48,30 @@ Here is what one of my tables looks like. I used a program called HeidiSQL to in
 This is some code for the category panel. GUI Components, labels, and graphics are initialized here.
 
 ```
-	public static void refreshTables(DefaultTableModel model, String tableName) {
-		try {
-			pst = con.prepareStatement("SELECT * FROM " + tableName);
-			rs = pst.executeQuery();
-			rsmd = rs.getMetaData();
+public static void refreshTables(DefaultTableModel model, String tableName) {
+	try {
+		pst = con.prepareStatement("SELECT * FROM " + tableName);
+		rs = pst.executeQuery();
+		rsmd = rs.getMetaData();
 			
-			int cols = rsmd.getColumnCount();
+		int cols = rsmd.getColumnCount();
 			
-			Object[] toUpdate = new Object[cols];
-			model.setRowCount(0);
-			while(rs.next()) {
-				for(int i = 0; i < cols; i++) {
-					if(rsmd.getColumnClassName(i+1).equals("java.lang.String")) {
-						toUpdate[i] = rs.getString(i+1);
-					} else if (rsmd.getColumnClassName(i+1).equals("java.lang.Integer")) {
-						toUpdate[i] = rs.getInt(i+1);
-					}
+		Object[] toUpdate = new Object[cols];
+		model.setRowCount(0);
+		while(rs.next()) {
+			for(int i = 0; i < cols; i++) {
+				if(rsmd.getColumnClassName(i+1).equals("java.lang.String")) {
+					toUpdate[i] = rs.getString(i+1);
+				} else if (rsmd.getColumnClassName(i+1).equals("java.lang.Integer")) {
+					toUpdate[i] = rs.getInt(i+1);
 				}
-				model.addRow(toUpdate);
 			}
-			
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
+			model.addRow(toUpdate);
+		}		
+	} catch (SQLException e) {
+		e.printStackTrace();
 	}
+}
 ```
 ##### Custom Components
 
