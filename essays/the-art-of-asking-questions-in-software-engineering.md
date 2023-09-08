@@ -21,11 +21,11 @@ Smart questions are essential for software engineers because it’s the key to g
 
 ## Analyzing Questions on Stack Overflow
 
-In this [question](https://stackoverflow.com/questions/59670/how-to-get-rid-of-deprecated-conversion-from-string-constant-to-char-warnin), a user was trying to figure out how to remove a warning when compiling. This is a question that is deemed smart.
+In this [question](https://stackoverflow.com/questions/59670/how-to-get-rid-of-deprecated-conversion-from-string-constant-to-char-warnin), a user was trying to figure out how to remove a warning when compiling. This is a question that is deemed smart on Stack Overflow.
 
 The post starts off talking about their environment. They state that a large codebase was upgraded to GCC 4.3. Knowing the version of this compiler already gives an insight into features related to the problem. Next, they clearly state what they would want to do to fix the problem, then they state their goal that they do not want to change over 564 files. Another descriptive detail is that they said they are running with -Werror. Due to all the useful context, many people answered, causing other discussions to start up and branch off.
 
-In this [question](https://stackoverflow.com/questions/38069045/why-does-this-code-gives-runtime-error), a user was trying to figure out why their iterating through a C++ vector gave an error. This is a question users should not ask on this forum.
+In this [question](https://stackoverflow.com/questions/38069045/why-does-this-code-gives-runtime-error), a user was trying to figure out why their iterating through a C++ vector gave an error. This is a question users should not ask on Stack Overflow.
 
 The post only contains their coded snippet, with no other context. This forces people who want to help to look through the code. At least the title mentions that there is a runtime error. The way the title is written it seems like the asker didn’t bother to try to find the issue. This asker needs to mention what they have tried, or what particular part of the code they believe is wrong. Additionally, a specific error message can help. Fortunately, someone looked through the code and spotted the problem, but the post did get downvoted to a -14 score.
 
