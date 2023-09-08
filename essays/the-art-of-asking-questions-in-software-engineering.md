@@ -9,7 +9,7 @@ labels:
   - Communication
   - Stack Overflow
 ---
-<img width="350px" length="622px" src="../img/smart-questions/art-of-asking-questions.jpg">
+<img width="350px" length="622px" class="rounded float-start pe-4" src="../img/smart-questions/art-of-asking-questions.jpg">
 
 These days resorting to going on the web is an instinct when something confusing arises. This holds particularly true for software developers, as they are already working on a computer, with the internet readily accessible. Software developers tend to use technical forums for help, such as Stack Overflow. Although there are people willing to help on those forums, it’s important to ask a question that is deemed smart.
 
