@@ -27,7 +27,7 @@ During the data collection phase, the 10 of us were split into three groups to m
 
 ## Conclusion
 
-I gained a lot of meaningful skills out of this internship. One of the major things I improved was my communication and teamwork. This was a group-oriented project, so we each put in effort together to successfully finish our research. In the process of our research, I learned a lot of biology terms about Maize and plants. I also learned argiculture methods to maintain plants in a controlled state. From the workshops, I was able to learn data science methods such as regression,and machine learning. Then I was able to apply those data science methods visually onto graphs learning R, a programming language for displaying graphs.
+I gained a lot of meaningful skills out of this internship. One of the major things I improved was my communication and teamwork. This was a group-oriented project, so we each put in effort together to successfully finish our research. In the process of our research, I learned a lot of biology terms about Maize and plants. I also learned argiculture methods to maintain plants in a controlled state. From the workshops, I was able to learn data science methods such as regression and machine learning. Then after I learned R, I was able to apply those data science methods visually onto graphs.
 
 [Click here for a link to a PDF of my poster](https://josephaverion.github.io/projects/projectExtensions/Maize-REEU-Poster.pdf)
 
