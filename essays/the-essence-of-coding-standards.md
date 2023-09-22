@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Asking Questions in Software Engineering"
+title: "The Essence of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
