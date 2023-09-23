@@ -17,7 +17,7 @@ I developed an electronics system to manage a hypothetical shop using Java, the 
 <img src= "../img/electronic-shop-system/edit-button.png">
 <img src= "../img/electronic-shop-system/table.png">
 
-Note: As of right now, this project is not completed yet. I only implemented the database tables for the brand and category panels.
+Note: As of right now, this project is not completed yet. I need to finish up the front page statistics and the orders panel. I only implemented the database tables and CRUD operations for the brand, category, and product panels.
 
 ## Designing the Manager
 
