@@ -30,7 +30,7 @@ My very first framework was bootstrap 5, one of the most popular frameworks used
 
 One part about bootstrap I like is how there are auto sizing components. When adding the keyword "fluid" to a container or a componenet, these elements become responsive to the window size. This ensures that the layout and design of the web page remain consistent across various screen sizes. This also means I don't need to create multiple websites for each device size.
 
-<img width="600px" length="400px" class="rounded float-start pe-4" src="../img/frameworks/experience-islandsnow-bootstrap.png">
+<img width="600px" length="400px" src="../img/frameworks/experience-islandsnow-bootstrap.png">
 
 This here above is a remake of an islandsnow website for one of my Bootstrap 5 practice assignments in ICS 314. I was amazed on how simple it was to make adjustments to the elements in the website. I was struggling trying to get familar what was what though since it was my first time using Bootstrap 5 and there were so many class names that changes a lot of parts of a component. Some things wouldn’t be aligned because I accidentally put the element outside the container, or when trying to changing a dropdown component nothing changes because I had a typo with the class name.
 
