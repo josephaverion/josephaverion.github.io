@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Evolving Role of AI"
 # All dates must be YYYY-MM-DD format!
-date: 2023-21-11
+date: 2023-11-21
 published: true
 labels:
   - AI
