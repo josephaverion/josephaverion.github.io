@@ -25,7 +25,7 @@ Behavioral Patterns: These patterns deal with how objects interact with each oth
 
 # Example of a software design pattern used in code
 
-In our project [askuh.info](askuh.info), we used the module pattern when designing our chatbot component. We have various parts that make up our chatbot, and instead of putting all the code into one file we separate the parts into different files for new components and pass in arguments in those new components.
+In our project [askuh.info](https://askuh.info), we used the module pattern when designing our chatbot component. We have various parts that make up our chatbot, and instead of putting all the code into one file we separate the parts into different files for new components and pass in arguments in those new components.
 
 ```
 <Container className="mt-5">
