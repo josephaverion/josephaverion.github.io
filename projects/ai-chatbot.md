@@ -32,7 +32,7 @@ I concentrated on the chat history feature. I created a collection of messages a
 
 # Experience
 
-This was my first time participating in a coding-related group project. It was a beneficial experience that honed my ability to work collaboratively. The GitHub Organization was very useful for us to keep our duties organized. We utilized project boards and issues in order to assign tasks to each of our group members. The knowledge and experience gained from this project will undoubtedly come in handy in real world work settings.
+This was my first time participating in a coding-related group project. It was a beneficial experience that honed my ability to work collaboratively. The GitHub Organization was very useful for us to keep our duties in check. We utilized project boards and issues in order to assign tasks to each of our group members. The knowledge and experience gained from this project will undoubtedly come in handy in real world work settings.
 
 [Project Page](https://regex-ics314.github.io/)
 
