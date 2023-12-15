@@ -28,7 +28,7 @@ I concentrated on the chat history feature. I created a collection of messages a
 
 ### User Chat History
 
-<img src= "../img/ai-chatbot/chat-history.png">
+<img width="600px" length="400px" src= "../img/ai-chatbot/chat-history.png">
 
 # Experience
 
