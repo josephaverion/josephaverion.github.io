@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Electronics Shop Manager | Joseph Carmelo Averion | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/josephaverion.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Joseph Carmelo Averion | Professional Portfolio">
+    <meta property="og:url" content="https://josephaverion.github.io/projects/electronics-shop-manager.html">
+    <meta property="og:title" content="Electronics Shop Manager | Joseph Carmelo Averion | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/josephaverion.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Electronics Shop Manager | Joseph Carmelo Averion | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Joseph Carmelo Averion</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Electronics Shop Manager</h1>
+ <p>I developed an electronics system to manage a hypothetical shop using Java, the Swing framework for the GUI, and a MySQL server for the backend. The system allows the shop owner or staff to add, edit, or delete product categories and brands, the product itself, and orders. Furthermore, the system tracks the amount of revenue and orders.</p>
+
+<p><img src="../img/electronic-shop-system/add-button.png" />
+<img src="../img/electronic-shop-system/edit-button.png" />
+<img src="../img/electronic-shop-system/table.png" /></p>
+
+<p>Note: As of right now, this project is not completed yet. I need to finish up the front page statistics and the orders panel. I only implemented the database tables and CRUD operations for the brand, category, and product panels.</p>
+
+<h2 id="designing-the-manager">Designing the Manager</h2>
+
+<p>I utilized 4 packages for this program. A database package containing a single class for methods that interact with the database, a screen package where each class represents a section with its respective GUI components and graphics, a main package that initializes the main frame and connects to the database, and a customJComponent package that has the classes where I modified existing Swing components.</p>
+
+<h5 id="main">Main</h5>
+
+<p>These are the methods that connect to the database and initialize the main frame.</p>
+
+<p><img src="../img/electronic-shop-system/start.png" /></p>
+
+<h5 id="database">Database</h5>
+
+<p>This is a method that adds an entry to the database. The method takes parameters of the table name, what’s being added, and the column names for the query.</p>
+
+<p><img src="../img/electronic-shop-system/add-method.png" /></p>
+
+<p>This is a method that refreshes the table showing the entries from the database.</p>
+
+<p><img src="../img/electronic-shop-system/refresh.png" /></p>
+
+<p>Here is what one of my tables looks like. I used a program called HeidiSQL to internally manage the database.</p>
+
+<p><img src="../img/electronic-shop-system/heidisql.png" /></p>
+
+<h5 id="each-panelscreen">Each Panel/Screen</h5>
+
+<p>This is some code for the category panel. GUI Components, labels, and graphics are initialized here.</p>
+
+<p><img src="../img/electronic-shop-system/category-panel-code.png" /></p>
+
+<h5 id="custom-components">Custom Components</h5>
+
+<p>This is a method I implemented to make a custom JButton that is able to have a different color.</p>
+
+<p><img src="../img/electronic-shop-system/set-color.png" /></p>
+
+<h2 id="what-i-got-out-of-this-project-and-moving-forward">What I got out of this project and moving forward</h2>
+
+<p>Coding this shop management system allowed me to practice my Java skills, and I was able to become more familiar with the Swing framework. I also gained more experience in database design and SQL queries.</p>
+
+<p>I want to improve this project by making it feel more modern. Right now all the components and the font feel too sharp compared to today’s look in GUIs where the components are more soft and round. Additionally, I could learn how to create animations to make it look more pleasing to use.</p>
+
+<p><a href="https://github.com/josephaverion/ElectronicsShopManager/tree/master/Electronics%20Shop%20Management%20System/src">Source Code</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Joseph Carmelo Averion",
+    "label": "Student",
+    "picture": "https://github.com/josephaverion.png",
+    "email": "averionj@hawaii.edu",
+    "website": "https://josephaverion.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "", "city": "Ewa Beach", "countryCode": "", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "josephaverion", "url": "http://github.com/josephaverion" },
+      { "network": "linkedin", "username": "josephaverion", "url": "https://www.linkedin.com/in/josephaverion" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Fullstack Development" },
+    { "name": "Data Science" },
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "Java", "C++", "C", "SQL", "R", "JavaScript" ]
+    },
+    {
+      "name": "Libraries and Frameworks",
+      "keywords": [ "Swing" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Eclipse", "Vim", "Git/GitHub", "Windows 10", "MacOS" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "GPA": "3.91",
+      "startDate": "2022-08-22",
+      "endDate": "2026-05-13"     
+    }
+  ],
+  "work": [
+    {
+      "company": "Nagatani Academic Center - University of Hawaii at Manoa",
+      "position": "Computer Support Specialist",
+      "website": "",
+      "startDate": "2022-08-29",
+      "endDate": "Present",
+      "highlights": [
+        "Monitor computer lab during day and evening study hall hours",
+        "Updated, maintained, and fixed problems with computers and other technology",
+        "Ensured that students followed computer lab policies"
+      ]
+    },
+    {
+      "company": "College of Tropical Agriculture and Human Resources - University of Hawaii at Manoa",
+      "website": "https://cms.ctahr.hawaii.edu/reeu",
+      "position": "Undergraduate Researcher",
+      "startDate": "2023-06-05",
+      "endDate": "2023-08-04",
+      "highlights": [
+        "Collected data on various maize root and shoot traits",
+        "Maize was grown in shade, drought, and normal conditions under a greenhouse",
+        "Worked with 4 other computer science and 5 other biology/agriculture undergraduates",
+        "Used data science techniques to analyze the data",
+        "Created graphs with R to visualize our findings",
+        "Presented findings at the Summer 2023 SURE Symposium"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Deans List",
+      "date": "2022 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earned a semester GPA of 3.5 or higher based on 12 credits or more"
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
