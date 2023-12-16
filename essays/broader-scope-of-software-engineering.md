@@ -6,7 +6,7 @@ title: "Beyond Coding: The Broader Scope of Software Engineering"
 date: 2023-12-14
 published: true
 labels:
-  - Design Patterns
+  - Coding Standards
   - Agile Project Management
   - Software Engineering
 ---
